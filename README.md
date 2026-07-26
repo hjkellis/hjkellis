@@ -1,14 +1,12 @@
-Hunter Ellis
---
-I am a Computer Engineer with experience in controls, robotics, and autonomy.
+I am a Computer Engineer working in the field of autonomous systems.
 
-> Languages: I primarily use C++, C, and Python  
-> Interests: Embedded Systems, Robotics, GNU/Linux, Vim(btw)
+> Interests: Estimation, Motion Planning, and Control Systems  
+> Languages: I primarily use C++, Python, C, and MATLAB
 
-<a href="https://github.com/hunterwellis">
+<a href="https://github.com/hjkellis">
     <img src="./assets/github.svg" />
 </a>
-<a href="https://hunterwellis.github.io">
+<a href="https://hjkellis.github.io">
     <img src="./assets/globe.svg" />
 </a>
 <a href="mailto:elliswhunter+github@gmail.com">
